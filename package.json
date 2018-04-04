@@ -1,0 +1,40 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "1. `git clone` this repo\r 2. `npm install`\r 3. enjoy!",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.6",
+    "browserify": "^13.3.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "gulp-load-plugins": "^1.5.0",
+    "node-sass": "^4.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerYou/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HackerYou/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/HackerYou/react-boilerplate#readme"
+}
